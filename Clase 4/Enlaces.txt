@@ -1,0 +1,3 @@
+Not Acceptable
+http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+Python2orPython3-Python Wiki

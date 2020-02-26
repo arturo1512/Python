@@ -1,0 +1,30 @@
+Operadores matemáticos en Python
+Los operadores nos permiten trabajar con valores y generar nuevos valores por medio de estas operaciones.
+
+Existen muchos operadores básicos,
+
+(+) Suma
+
+(-) Resta
+
+(asterisco) Multiplicación
+
+(/) División
+
+(//) División de enteros
+
+(%) Operador de módulo
+
+(doble asterisco) Potencias
+
+(>) Mayor que
+
+(<) Menor que
+
+(==) Igual
+
+(>=) Mayor igual
+
+(<=) Menor igual
+
+¿Qué operadores matemáticos te parecen más útiles?

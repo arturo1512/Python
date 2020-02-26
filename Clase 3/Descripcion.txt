@@ -1,0 +1,8 @@
+¿Qué es la programación?
+La programación es dar instrucciones a la computadora de forma ordenada, estas instrucciones definen lo que se va a realizar, desde cosas sencillas hasta cosas avanzadas.
+
+Todos los programas se componen de partes esenciales que son forma de darle datos de entrada a la computadora y formas estructuradas para procesar estos datos.
+
+¿Cómo crearías un cuadrado?
+
+Significa generar líneas y dar vueltas, ¿cómo escribes esto?

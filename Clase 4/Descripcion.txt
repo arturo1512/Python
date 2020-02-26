@@ -1,0 +1,8 @@
+Python 2 vs Python 3
+Cuando hablamos de Python, tenemos varias versiones, actualmente compiten python 2 y python 3
+
+Python 3 arregla ciertas inconsistencias en el lenguaje que hacía difícil programar, algunas de las diferencias más significativas son:
+
+print ahora es una función
+Unicode está establecido por defecto en los strings
+Recuerda tener en cuenta si las librerías que usas están escritas solo para Python 2
