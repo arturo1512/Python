@@ -1,0 +1,7 @@
+Calcular si un número es primo con Python
+En éste vídeo vamos a construir un programa que nos permite determinar si un número es primo o no, usando expresiones booleanas, operadores relacionales y operadores lógicos.
+
+Recuerda:
+
+Todas las funciones deben declararse con el keyword def
+Un bug es un error en el código y requiere ser verificado
